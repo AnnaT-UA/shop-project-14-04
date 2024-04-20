@@ -56,13 +56,13 @@ body {
     background-color: #2c71b8;
     color: white;
 }
-.search {
+.search-input {
     width: 200px;
-    background-color: #cadbed;
+    background-color: transparent;
     color: #2c71b8;
     height: 40px;
     padding: 15 40px;
-    border-color: #2c71b8;
+   outline: #2c71b8;
     text-align: left;
 
 }
