@@ -66,3 +66,9 @@ body {
     text-align: left;
 
 }
+.container2 {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    background-color: #235a93;
+}
